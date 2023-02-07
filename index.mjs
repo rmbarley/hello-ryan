@@ -1,15 +1,5 @@
 #!/usr/bin/env node
 
-// const config = {
-//   padding: { top: 1, bottom: 1, left: 3 },
-//   width: 100,
-//   title: "Hi, I'm Ryan",
-//   titleAlignment: "center",
-// };
-// const title = "Hi, I'm Ryan";
-//
-//
-
 import boxen from "boxen";
 import chalk from "chalk";
 
